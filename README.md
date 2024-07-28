@@ -8,7 +8,7 @@
 [![Dark GitHub Trophy](https://github-profile-trophy.vercel.app/?username=taku-256&theme=discord#gh-dark-mode-only)](https://github.com/taku-256#gh-dark-mode-only)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taku-256/taku-256/master/img/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/taku-256/taku-256/master/img/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/taku-256/taku-256/master/img/snake.svg">
 </picture>
