@@ -1,2 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taku-256&count_private=trueshow_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taku-256&layout=compact&hide=SWIG,Makefile)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> 
+  <img alt="github stats" height="160px" src="https://github-readme-stats.vercel.app/api?username=taku-256&count_private=trueshow_icons=true&theme=radical" />
+  <img alt="Top Langs" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taku-256&hide=SWIG,Makefile&theme=radical" />
+</p>
