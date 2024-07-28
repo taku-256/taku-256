@@ -6,3 +6,6 @@
 [![Dark Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=taku-256&langs_count=8&hide=SWIG,Makefile&theme=dark#gh-dark-mode-only)](https://github.com/taku-256#gh-dark-mode-only)
 [![Light GitHub Trophy](https://github-profile-trophy.vercel.app/?username=taku-256&theme=light#gh-light-mode-only)](https://github.com/taku-256#gh-light-mode-only)
 [![Dark GitHub Trophy](https://github-profile-trophy.vercel.app/?username=taku-256&theme=discord#gh-dark-mode-only)](https://github.com/taku-256#gh-dark-mode-only)
+
+![github-contribution-grid-snake](https://raw.githubusercontent.com/taku-256/taku-256/main/img/snake.svg#gh-light-mode-only)
+![github-contribution-grid-snake](https://raw.githubusercontent.com/taku-256/taku-256/main/img/snake_dark.svg#gh-dark-mode-only)
